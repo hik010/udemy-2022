@@ -1,2 +1,2 @@
 # udemy-2022
-Understanding typescript 
+Understanding typescript 2022
